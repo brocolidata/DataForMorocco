@@ -1,0 +1,12 @@
+{
+    "name": "Data For Morocco Lab",
+    "build":{
+      "dockerfile":"./Dockerfile"
+    },
+    "runArgs": [
+      "--env-file",".env",
+      "--name", "DataForMorocco_lab"
+    ],
+    "workspaceMount": "source=${localWorkspaceFolder}/,target=/lab,type=bind",
+    "workspaceFolder": "/lab/src"
+  }
