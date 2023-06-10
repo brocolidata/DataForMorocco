@@ -1,0 +1,3 @@
+[submodule "src/dataformorocco/themes/hugo_blog_awesome"]
+	path = src/dataformorocco/themes/hugo_blog_awesome
+	url = https://github.com/hugo-sid/hugo-blog-awesome
