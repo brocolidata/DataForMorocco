@@ -26,22 +26,22 @@ paginate = 5
 
     [[languages.en.menu.main]]
       name = "About us"
-      url = "/about"
+      url = "about"
       weight = 5
     
     [[languages.en.menu.main]]
       name = "Datasets"
-      url = "/datasets"
+      url = "datasets"
       weight = 10
 
     [[languages.en.menu.main]]
       name = "Posts"
-      url = "/posts"
+      url = "posts"
       weight = 20
 
     [[languages.en.menu.main]]
       name = "Search"
-      url = "/search"
+      url = "search"
       weight = 30
 
   [languages.fr]
@@ -51,22 +51,22 @@ paginate = 5
 
     [[languages.fr.menu.main]]
       name = "À propos"
-      url = "/about"
+      url = "about"
       weight = 5
     
     [[languages.fr.menu.main]]
       name = "Jeux de Données"
-      url = "/datasets"
+      url = "datasets"
       weight = 10
 
     [[languages.fr.menu.main]]
       name = "Posts"
-      url = "/posts"
+      url = "posts"
       weight = 20
 
     [[languages.fr.menu.main]]
       name = "Recherche"
-      url = "/search"
+      url = "search"
       weight = 30
 
     [languages.fr.params]

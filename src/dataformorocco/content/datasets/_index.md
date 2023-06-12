@@ -1,6 +1,6 @@
 ---
 title: "Datasets"
-url: "datasets"
+# url: "datasets"
 summary: "Available datasets"
 description: "Available datasets"
 ---
