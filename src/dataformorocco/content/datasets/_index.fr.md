@@ -1,6 +1,6 @@
 ---
 title: "Jeux de Données"
-url: "datasets"
+# url: "datasets"
 summary: "Données disponibles"
 description: "Données disponibles"
 ---
