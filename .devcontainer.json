@@ -8,5 +8,12 @@
       "--name", "DataForMorocco_lab"
     ],
     "workspaceMount": "source=${localWorkspaceFolder}/,target=/lab,type=bind",
-    "workspaceFolder": "/lab/src"
+	"workspaceFolder": "/lab/src/dataformorocco",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"bungcip.better-toml"
+			]
+		}
+	}
   }
