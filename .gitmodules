@@ -1,3 +1,6 @@
 [submodule "src/dataformorocco/themes/hugo_blog_awesome"]
 	path = src/dataformorocco/themes/hugo_blog_awesome
 	url = https://github.com/hugo-sid/hugo-blog-awesome
+[submodule "src/dataformorocco/themes/PaperMod"]
+	path = src/dataformorocco/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
