@@ -1,4 +1,89 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo_blog_awesome'
+baseURL = 'http://brocolidata.github.io/'
+# baseURL = 'http://example.org/'
+languageCode = 'en'
+title = 'Data For Morocco'
+theme = 'PaperMod'
+pygmentsUseClasses = true
+paginate = 5
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowBreadCrumbs = false
+  displayFullLangName = true
+  ShowPostNavLinks = true
+  [params.homeInfoParams]
+    Title = ''
+
+[outputs]
+  home = [
+    'HTML', 'RSS', 'JSON'
+  ]
+
+[languages]
+  [languages.en]
+    languageName = "En :uk:"
+    weight = 1
+
+    [[languages.en.menu.main]]
+      name = "About us"
+      url = "/about"
+      weight = 5
+    
+    [[languages.en.menu.main]]
+      name = "Datasets"
+      url = "/datasets"
+      weight = 10
+
+    [[languages.en.menu.main]]
+      name = "Posts"
+      url = "/posts"
+      weight = 20
+
+    [[languages.en.menu.main]]
+      name = "Search"
+      url = "/search"
+      weight = 30
+
+  [languages.fr]
+    languageCode = "fr"
+    languageName = "Fr :fr:"
+    weight = 2
+
+    [[languages.fr.menu.main]]
+      name = "À propos"
+      url = "/about"
+      weight = 5
+    
+    [[languages.fr.menu.main]]
+      name = "Jeux de Données"
+      url = "/datasets"
+      weight = 10
+
+    [[languages.fr.menu.main]]
+      name = "Posts"
+      url = "/posts"
+      weight = 20
+
+    [[languages.fr.menu.main]]
+      name = "Recherche"
+      url = "/search"
+      weight = 30
+
+    [languages.fr.params]
+      languageAltTitle = "French"
+
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'Box'
+
+# [markup]
+  
+#   [markup.goldmark.renderer]
+#     unsafe = true
+
+#   [markup.highlight]
+#     noClasses = false
