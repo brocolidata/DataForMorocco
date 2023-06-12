@@ -10,7 +10,7 @@ paginate = 5
   ShowReadingTime = true
   ShowBreadCrumbs = false
   displayFullLangName = true
-  ShowPostNavLinks = true
+  ShowPostNavLinks = false
   [params.homeInfoParams]
     Title = ''
 
