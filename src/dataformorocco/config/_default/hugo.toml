@@ -1,5 +1,5 @@
-baseURL = 'https://brocolidata.github.io/DataForMorocco/'
-# baseURL = 'http://example.org/'
+# baseURL = 'https://brocolidata.github.io/DataForMorocco/'
+baseURL = 'http://example.org/'
 languageCode = 'en'
 title = 'Data For Morocco'
 theme = 'PaperMod'
@@ -79,11 +79,3 @@ paginate = 5
   hint = 'photo'
   quality = 75
   resampleFilter = 'Box'
-
-# [markup]
-  
-#   [markup.goldmark.renderer]
-#     unsafe = true
-
-#   [markup.highlight]
-#     noClasses = false

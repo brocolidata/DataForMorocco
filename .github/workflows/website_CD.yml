@@ -23,6 +23,8 @@ jobs:
     env:
       HUGO_PROJECT_PATH: ${{ github.workspace }}/src/dataformorocco
       HUGO_BUILD_PATH: ${{ github.workspace }}/src/dataformorocco/public
+      HUGO_ENVIRONMENT: production
+      HUGO_ENV: production
     steps:
     - name: 'Checkout branch'
       uses: 'actions/checkout@v3'
