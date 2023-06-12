@@ -4,16 +4,9 @@ date: 2023-06-10T15:30:04Z
 draft: false
 author: "amirbtb"
 showtoc: true
-# cover:
-#     image: "https://images.unsplash.com/photo-1541168350939-a118c5c13b4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80"
-#     # image: "vincent-riszdorfer-3M6he8o4yvg-unsplash.jpg"
-#     imageWidth: 900
-#     imageHeight: 400
-#     alt: "test"
-#     caption: "test"
 ---
 
-<!-- ![Vincent Riszdorfer on Unsplash](https://images.unsplash.com/photo-1541168350939-a118c5c13b4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80) -->
+![Vincent Riszdorfer on Unsplash](https://images.unsplash.com/photo-1541168350939-a118c5c13b4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80)
 
 **Empowering Morocco through accessible data**
 
@@ -25,70 +18,70 @@ Additionally, we introduce our own project, which aims to facilitate access to M
 
 ### Portail National des Données Ouvertes du Royaume du Maroc ⭐⭐⭐⭐
 *(National Open Data Portal of the Kingdom of Morocco)*
-- Website : data.gov.ma
-- Nature of data available : All kind
-- Format of data available : PDF, CSV, Microsoft Excel, Microsoft Word files
+- **Website** : [data.gov.ma](https://www.data.gov.ma/)
+- **Nature of data available** : All kind
+- **Format of data available** : PDF, CSV, Microsoft Excel, Microsoft Word files
 
-A cornerstone of the country's Open Data initiative. Initially launched in 2011 by the Ministry of Industry, Commerce and the Digital Economy, is currently managed by the ADD (Agence du Développement du Digital). 
+A cornerstone of the country's Open Data initiative. Initially launched in 2011 by the Ministry of Industry, Commerce and the Digital Economy, is currently managed by the [ADD](https://www.add.gov.ma/) (***A**gence du **D**éveloppement du **N**umérique*). 
 This platform provides a comprehensive collection of datasets from various government agencies, covering diverse domains such as demographics, education, health, economy, and transportation.
-At the time of writing the article, about 400 datasets are available on the platform, of which more than 300 are in tabular format (.csv, .xls, .xlsx).
+At the time of writing the article, about 400 datasets are available on the platform, of which more than 300 are in tabular format (`.csv`, `.xls`, `.xlsx`).
 
 
 ### Haut Commissariat au Plan (HCP) ⭐⭐⭐⭐
 *(Higher Planning Commission)*
-- Website : hcp.ma
-- Nature of data available : All kind
-- Format of data available : PDF, Microsoft Excel, Microsoft Word files
+- **Website** : [hcp.ma](https://www.hcp.ma/)
+- **Nature of data available** : All kind
+- **Format of data available** : PDF, Microsoft Excel, Microsoft Word files
 
 Established in 2003, the HCP is the government institution responsible for collecting, analyzing, and disseminating statistical data in Morocco. The HCP aims to provide policymakers, researchers, and other stakeholders with valuable insights into the country's socio-economic landscape. 
-The institution publishes a wide range of reports, statistical yearbooks, and indicators on its official website ; among them, the Annuaire Statistique (statistical yearbook), published every year, is available in the form of a zip archive containing one Excel file per dimension to be analyzed (industry, social, consumer prices, etc…).
+The institution publishes a wide range of reports, statistical yearbooks, and indicators on its official website ; among them, the [Annuaire Statistique](https://www.hcp.ma/downloads/?tag=Annuaires+statistiques+du+Maroc) (statistical yearbook), published every year, is available in the form of a zip archive containing one Excel file per dimension to be analyzed (industry, social, consumer prices, etc…).
 
 
 ### Ministère de l'Économie et des Finances ⭐⭐⭐
 *(Ministry of Economy and Finance)*
-- Website : finances.gov.ma
-- Nature of data available : Economy, Public Finances
-- Format of data available : PDF, Microsoft Excel files
+- **Website** : [finances.gov.ma](https://www.finances.gov.ma/)
+- **Nature of data available** : Economy, Public Finances
+- **Format of data available** : PDF, Microsoft Excel files
 
 It plays a crucial role in overseeing and managing the economic and financial sectors of the country. 
-With its statistical database MANAR-Stat, the Ministry provides data about the moroccan economy & public finances, in Excel format.
+With its statistical database [MANAR-Stat](https://manar.finances.gov.ma/), the Ministry provides data about the moroccan economy & public finances, in Excel format.
 
 
 ### Office des Changes ⭐⭐
 *(Foreign Exchange Office)*
-- Website : oc.gov.ma
-- Nature of data available : International Trading, Foreign Investment
-- Format of data available : CSV files
+- **Website** : [oc.gov.ma](https://www.oc.gov.ma/)
+- **Nature of data available** : International Trading, Foreign Investment
+- **Format of data available** : CSV files
 
 Created in 1944, it is the regulatory authority responsible for overseeing foreign exchange transactions and the control of external trade and investments in Morocco. 
-It provides an International Trading database from which we can export moroccan international trade activities data.
+It provides an [International Trading database](https://services.oc.gov.ma/DataBase/CommerceExterieur) from which we can export moroccan international trade activities data.
 
 
 ### Bourse de Casablanca ⭐⭐
 *(Casablanca Stock Exchange)*
-- Website : casablanca-bourse.com
-- Nature of data available : Listed companies , Financial Markets
-- Format of data available : PDF, Microsoft Excel files, ZIP archives
+- **Website** : [casablanca-bourse.com](https://www.casablanca-bourse.com/)
+- **Nature of data available** : Listed companies , Financial Markets
+- **Format of data available** : PDF, Microsoft Excel files, ZIP archives
 
-The main securities exchange in Morocco. Established in 1929 (yes, the year of the Great Depression), it serves as a platform for trading equities, bonds, derivatives, and other financial instruments. The stock exchange plays a crucial role in the country's capital market development and provides a marketplace for companies to raise capital and investors to trade securities.
+The main securities exchange in Morocco. Established in 1929 (yes, the year of the [Great Depression](https://en.wikipedia.org/wiki/Great_Depression)), it serves as a platform for trading equities, bonds, derivatives, and other financial instruments. The stock exchange plays a crucial role in the country's capital market development and provides a marketplace for companies to raise capital and investors to trade securities.
 Through its website, it is possible to download data about listed companies, market and trading sessions in .csv format.
 
 
 ### Ministère de l'Education nationale, du Préscolaire et des Sports ⭐⭐
 *(Ministry of National Education, Early Education, and Athletics)*
-- Website : men.gov.ma
-- Nature of data available : Education
-- Format of data available : PDF, Microsoft Excel files
+- **Website** : [men.gov.ma](https://www.men.gov.ma/)
+- **Nature of data available** : Education
+- **Format of data available** : PDF, Microsoft Excel files
 
 The ministry responsible for overseeing the education system, including preschool, primary, and secondary education, as well as sports-related activities and initiatives.
-The statistics section of the website contains all Excel files with rich data about Education from preschool to profesionnal education for adults.
+The [statistics section of the website](https://www.men.gov.ma/Fr/Pages/Statistiques_syspedag.aspx) contains all Excel files with rich data about Education from preschool to profesionnal education for adults.
 
 
 ### Bank Al-Maghrib ⭐
 *(Central Bank of Morocco)*
-- Website : bkam.ma
-- Nature of data available : Economy, Finance, Monetary, Bank sector
-- Format of data available : Charts (embeded)
+- **Website** : [bkam.ma](https://www.bkam.ma/)
+- **Nature of data available** : Economy, Finance, Monetary, Bank sector
+- **Format of data available** : Charts (embeded)
 
 Established in 1959, Bank Al-Maghrib is responsible for maintaining price stability, safeguarding the stability of the financial system, and promoting sustainable economic growth in Morocco. It plays a critical role in the country's financial system and monetary policy.
 Unfortunately no data is available in tabular format, only charts.
@@ -96,49 +89,49 @@ Unfortunately no data is available in tabular format, only charts.
 
 ### Secrétariat Général du Gouvernement ⭐
 *(General Secretariat of the Government)*
-- Website : sgg.gov.ma
-- Nature of data available : Legislative
-- Format of data available : PDF files
+- **Website** : [sgg.gov.ma](https://www.sgg.gov.ma/)
+- **Nature of data available** : Legislative
+- **Format of data available** : PDF files
 
 The central administrative body that supports the functioning of the government and coordinates its activities.
 One of its missions is to record government decisions and actions.
-The Bulletin Officiel (the moroccan government gazette) is published at least twice a month since 1912 and contains newly adopted laws and other official announcements.
+The [Bulletin Officiel](http://www.sgg.gov.ma/BulletinOfficiel.aspx) (the moroccan government gazette) is published at least twice a month since 1912 and contains newly adopted laws and other official announcements.
 
 
 ### Portail des Marchés Publics ⭐
 *(Public Procurement Portal)*
-- Website : marchespublics.gov.ma
-- Nature of data available : Public 
-- Format of data available : No files
+- **Website** : [marchespublics.gov.ma](https://www.marchespublics.gov.ma/)
+- **Nature of data available** : Public 
+- **Format of data available** : No files
 
 A platform to find all requests for tenders in works, supply or service contracts needed by public authorities. 
-Potential suppliers can use the search engine to find projects they can realize.
+Potential suppliers can use the [search engine](https://www.marchespublics.gov.ma/index.php?page=entreprise.EntrepriseAdvancedSearch&AllAnn) to find projects they can realize.
 
 
 ### Ministère de la Santé et de la Protection sociale ⭐
 *(Ministry of Health and Social Protection)*
-- Website : sante.gov.ma
-- Nature of data available : Health
-- Format of data available : PDF files
+- **Website** : [sante.gov.ma](https://www.sante.gov.ma/)
+- **Nature of data available** : Health
+- **Format of data available** : PDF files
 
 The ministry formulating and implementing health policies, regulating healthcare services, promoting public health initiatives, and ensuring access to quality healthcare for all citizens.
-In the studies and surveys section of the website, we can find all editions of the Santé en Chiffres report (Health statistics) since 2003.
+In the [studies and surveys section of the website](https://www.sante.gov.ma/Publications/Etudes_enquete/Pages/default.aspx), we can find all editions of the ***Santé en Chiffres*** report (Health statistics) since 2003.
 
 
 ### Ministère du Tourisme, de l'Artisanat, de l'Economie Sociale et Solidaire ⭐
 *(Ministry of Tourism, Handicrafts and Social and Solidarity Economy)*
-- Website : mtaess.gov.ma
-- Nature of data available : Education
-- Format of data available : No files
+- **Website** : [mtaess.gov.ma](https://mtaess.gov.ma/)
+- **Nature of data available** : Education
+- **Format of data available** : No files
 
 The ministry responsible for overseeing and promoting the development of tourism, artisanal activities, and the social and solidarity economy in Morocco.
-On the publications page of the website, we can find annual reports about moroccan tourism and handicraft.
+On the [publications page of the website](https://mtaess.gov.ma/fr/artisanat/chiffres-cles/publications), we can find annual reports about moroccan tourism and handicraft.
 
 ### Ministère de l'Industrie et du Commerce ⭐
 *(Ministry of Industry and Trade)*
-- Website : mcinet.gov.ma
-- Nature of data available : Education
-- Format of data available : PDF files
+- **Website** : [mcinet.gov.ma](https://www.mcinet.gov.ma/)
+- **Nature of data available** : Education
+- **Format of data available** : PDF files
 
 The ministry responsible for promoting and regulating industrial and commercial activities in the country.
 A project bank is available, with approximately 370 projects and a description of their opportunities and challenges.
@@ -149,11 +142,11 @@ In our commitment to democratizing access to valuable information, we are proud 
 It aims to bridge the gap between citizens/companies and Moroccan open data by providing user-friendly data. Our goal is to empower individuals, researchers, and businesses with the tools and resources they need to harness the power of open data.
 
 The data we will provide will be :
-- reconciled : no need to process and merge multiple files to get the variation of a measure over years ; each dataset will have data for all years available.
-- formated : tabular format (.csv).
+- **reconciled** : no need to process and merge multiple files to get the variation of a measure over years ; each dataset will have data for all years available.
+- **formated** : tabular format (.csv).
 - transparent : all transformations will be traceable with data lineage (thanks to dbt).
-- described : data will come with descriptions and metadata to easily understand the context.
-- open-source : All the code related to data extraction and transformation will be available.
+- **described** : data will come with descriptions and metadata to easily understand the context.
+- **open-source** : All the code related to data extraction and transformation will be available.
 
 You are welcome to contact and tell us what (open) data you would like to find.
 
