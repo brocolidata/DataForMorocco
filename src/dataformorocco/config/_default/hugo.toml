@@ -1,4 +1,3 @@
-# baseURL = 'https://brocolidata.github.io/DataForMorocco/'
 baseURL = 'http://example.org/'
 languageCode = 'en'
 title = 'Data For Morocco'
